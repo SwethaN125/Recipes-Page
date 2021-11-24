@@ -1,0 +1,165 @@
+body{
+  background-color: #091836;
+  color: #986D8E;
+}
+/*#fafafa;  #515ecf  ,#3DB2FF */
+.container-fluid{
+  padding: 3% 15% 7%;
+  padding-top: 1%;
+}
+.navbar{
+  padding-bottom: 2rem;
+}
+.nav-item{
+  padding: 0 18px;
+}
+.nav-link{
+  font-size: 1.2rem;
+  font-family: "Montserrat";
+  font-weight: 400;
+}
+.logo{
+  width: 60px;
+  margin-bottom: 20px;
+}
+.header{
+  padding-bottom: 7%;
+  justify-content: center;
+}
+.Intro{
+  text-align: center;
+}
+.Intro .heading{
+  font-size: 5rem;
+  font-family: 'Italianno', cursive;
+  color:gold;
+}
+.Intro p{
+  font-size: 1.5rem;
+  line-height: 1.5;
+  margin:auto;
+  font-family: "Montserrat", sans-serif;
+}
+.column2{
+  text-align: center;
+}
+.samosa{
+  margin-top: 7%;
+  width: 45%;
+  position: static;
+}
+#ingredients{
+  padding: 7% 15%;
+  background-color: #fafafa;
+  color:#32C1CD;
+  justify-content: center;
+}
+#ingredients li{
+  color: #726A95;
+}
+.ingre{
+  margin: auto;
+}
+.ingre img{
+  width:100%;
+  right: 50%;
+}
+.Ingre{
+  padding-top: 2%;
+  padding-left: 5%;
+}
+h4{
+  color:#515ecf ; /* #53B8BB #2F86A6*/
+}
+.ingredients{
+  font-family: "Montserrat";
+  font-weight: 500;
+  font-size: 2.3rem;
+  text-align: center;
+}
+.icon{
+  font-size: 64px;
+  margin-top: 5rem;
+  margin-bottom: 1rem;
+  color:#3DB2FF;
+}
+.icon:hover{
+  color:#515ecf;
+}
+
+#method{
+  padding: 7% 15%;
+  background-color: #091836;
+  font-family: 'Ubuntu';
+  color: #fafafa;
+}
+#method h1{
+  text-align: center;
+  font-size: 3.5rem;
+  font-family: 'Ubuntu Condensed', sans-serif;
+  padding-bottom: 2%;
+}
+#method p{
+  font-size: 2rem;
+}
+.One{
+  color: #E7DEC8;
+  padding-bottom: 2%;
+}
+.Two{
+  color: #CBAF87;
+  padding-bottom: 2%;
+}
+.Three{
+  color: gold;
+  padding-bottom: 2%;
+}
+
+#more{
+  color:#515ecf;
+  background-color: #fafafa;
+  text-align: center;
+  font-size: 1.5rem;
+}
+#more h3{
+  font-size: 2rem;
+  font-family: 'Ubuntu Condensed', sans-serif;
+}
+span{
+  font-family: 'Italianno', cursive;
+  color:gold;
+  font-size: 4rem;
+}
+.git{
+  padding-top: 2%;
+  font-size: 3rem;
+  color: #D8AC9C;
+  font-family: 'Italianno', cursive;
+}
+.icon1{
+  font-size: 72px;
+  margin-top: 5rem;
+  margin-bottom: 1rem;
+  color: red;
+}
+.icon1:hover{
+  color: #FF5403;
+}
+.icon2{
+  font-size: 72px;
+  margin-top: 5rem;
+  margin-bottom: 1rem;
+  color: #3E065F;
+}
+.icon2:hover{
+  color: #8E05C2;
+}
+.icon3{
+  font-size: 72px;
+  margin-top: 5rem;
+  margin-bottom: 1rem;
+  color: #79B4B7;
+}
+.icon3:hover{
+  color: powderblue;
+}
