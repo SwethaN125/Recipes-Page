@@ -163,8 +163,8 @@ span{
 .icon3:hover{
   color: powderblue;
 }
-footer{
-  background:black;
-  color:#fafafa;
-  justify-items:center;
+.copyrights{
+  color: powderblue;
+  font-size: 0.75rem;
+  text-align: center
 }
