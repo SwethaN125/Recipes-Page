@@ -163,3 +163,8 @@ span{
 .icon3:hover{
   color: powderblue;
 }
+footer{
+  background:black;
+  color:#fafafa;
+  text-align:centre;
+}
